@@ -1,0 +1,62 @@
+{
+  "/": {
+    "title": "Eternium AI",
+    "description": "The AI platform for builders. One API, every model. Open-source blueprints, media tools, and infrastructure for anyone building with AI.",
+    "image": "https://eternium.ai/og/eternium-home-og.png"
+  },
+  "/centramind": {
+    "title": "Centramind -- AI Infrastructure for Businesses",
+    "description": "Personally architected for each business by application. Limited deployments per quarter.",
+    "image": "https://eternium.ai/og/centramind-og.png"
+  },
+  "/centramind/blueprint": {
+    "title": "Get Your Free Centramind Blueprint",
+    "description": "9 questions, 3 minutes, no money. A personalized map of where your stack leaks, which integrations matter, and what an AI-first operation looks like for your business.",
+    "image": "https://eternium.ai/og/centramind-blueprint-og.png"
+  },
+  "/centramind/checkout/*": {
+    "title": "Centramind Master Architecture Deposit",
+    "description": "Your Blueprint queued you for personal review. Secure your deployment with the Master Architecture Deposit.",
+    "image": "https://eternium.ai/og/centramind-og.png"
+  },
+  "/helix": {
+    "title": "Helix -- AI Media Suite",
+    "description": "Generate images, video, and audio with 25+ AI models through one beautiful interface. Built by Eternium.",
+    "image": "https://eternium.ai/og/helix-og.png"
+  },
+  "/api": {
+    "title": "Eternium API -- One API, Every Model",
+    "description": "Generation, chat, embeddings, audio across 30+ AI models. Built for developers who ship.",
+    "image": "https://eternium.ai/og/eternium-api-og.png"
+  },
+  "/armory": {
+    "title": "Eternium Armory -- Source-Available AI Templates",
+    "description": "Production-ready AI templates. Buy once, own the source, deploy in minutes.",
+    "image": "https://eternium.ai/og/armory-og.png"
+  },
+  "/build-with-us": {
+    "title": "Build With Eternium",
+    "description": "Custom AI architecture for businesses ready to operate at a different level.",
+    "image": "https://eternium.ai/og/eternium-home-og.png"
+  },
+  "/blog": {
+    "title": "Eternium Blog",
+    "description": "Notes from the AI-first operations frontier.",
+    "image": "https://eternium.ai/og/eternium-blog-og.png"
+  },
+  "/blog/*": {
+    "title": "Eternium Blog",
+    "description": "Notes from the AI-first operations frontier.",
+    "image": "https://eternium.ai/og/eternium-blog-og.png"
+  },
+  "/booking": {
+    "title": "Book a Centramind Consultation",
+    "description": "30 minutes with Tyrin Barney. By application only.",
+    "image": "https://eternium.ai/og/centramind-og.png"
+  },
+  "/careers": {
+    "title": "Careers at Eternium",
+    "description": "Build the AI infrastructure layer with us.",
+    "image": "https://eternium.ai/og/eternium-home-og.png"
+  }
+}

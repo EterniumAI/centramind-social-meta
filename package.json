@@ -1,0 +1,13 @@
+{
+  "name": "centramind-social-meta",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Per-route Open Graph + Twitter Card meta injection for crawlers visiting eternium.ai",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
